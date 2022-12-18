@@ -23,7 +23,7 @@ namespace Numbers
 
             myInteger = 25;
 
-           // MessageBox.Show(myInteger);
+           MessageBox.Show(myInteger);
 
         }
     }
